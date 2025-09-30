@@ -102,7 +102,7 @@ Users must follow YouTube’s Terms of Service and Telegram’s Bot Policy.
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/xbitcode/music/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/chalcogen645/api/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
